@@ -36,6 +36,3 @@ I evaluated three different models against a commercial reference (Original xGoa
 ## ⚠️ Limitations
 - **Data Granularity & Tracking Quality:** My model relies strictly on event data (shot coordinates, previous actions, etc.). Professional models utilize high-frequency optical tracking data for all 22 players and the ball.
 - **Defensive and Goalkeeper Context (The "Blind Spot"):** Event data cannot easily tell if a shooter faces an open goal or a 5-man defensive wall. Professional models incorporate defensive pressure metrics, goalkeeper positioning, and line of sight.
-
----
-*Created for the Artificial Intelligence & Machine Learning course (Jul 6, 2026).*
